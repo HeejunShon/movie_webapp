@@ -1,3 +1,3 @@
-# movie_Webapp
+# movie_webapp
 
 A toy project using React JS
